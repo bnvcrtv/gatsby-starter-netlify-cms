@@ -51,6 +51,11 @@ intro:
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
+
+    Kaldi is the ultimate spot for coffee lovers who want to learn about their
+    java’s origin and support the farmers that grew it. We take coffee
+    production, roasting and brewing seriously and we’re glad to pass that
+    knowledge to anyone. This is an edit via identity...
 main:
   heading: Great coffee with no compromises
   description: >
@@ -68,3 +73,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
